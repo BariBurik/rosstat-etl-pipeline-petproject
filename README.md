@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
-![Статитика](assets/images/statistic.jpg)
+<a href="[https://linkedin.com/in/yourprofile](https://rosstat.gov.ru/folder/12781)">
+  <img src="assets/images/statistic.jpg" width="30" alt="LinkedIn">
+</a>
 
 ## 📌 Описание проекта
 Данный проект посвящен анализу демографической трансформации регионов России. На основе данных Росстата исследованы векторы перемещения населения, выявлены скрытые процессы субурбанизации и оценен реальный масштаб «стягивания» человеческих ресурсов в крупнейшие агломерации.
